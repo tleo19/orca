@@ -1,0 +1,39 @@
+mobile/src/components/drawer-handoff.ts
+  s_b7752e52052a4c::t_280f144ce35528 14,16,18,20,28-29,34
+  s_b7752e52052a4c::t_b24141ed696af0 38-39
+  s_b7752e52052a4c::t_e17049707c5e7f 2
+  s_b7752e52052a4c::t_a1fe06a40942b5 1,3-4,6-8,13,15,17,19,21-25,30-33,35-37,40-47
+  s_b7752e52052a4c::t_e8bb3e7e232a5b 27
+  s_b7752e52052a4c::t_55300fa7bbe51f 5,11-12,26
+  s_b7752e52052a4c::t_ccbab50d75c8d7 9-10
+mobile/app/index.tsx
+  s_b7752e52052a4c::t_aadc11349ac83a 334
+  s_b7752e52052a4c::t_e07cd51488c83d 1090,1097
+  s_b7752e52052a4c::t_3b3d68010ea369 331-333
+  s_b7752e52052a4c::t_5a6fe4c5ca377e 48
+mobile/src/components/drawer-handoff.test.ts
+  s_b7752e52052a4c::t_b5072da8e85f9b 1-11,13-15,17-32,35-44,46-55,57-61
+  s_b7752e52052a4c::t_e296046ed1de1a 12,16,33-34,45,56
+mobile/src/components/BottomDrawer.tsx
+  s_b7752e52052a4c::t_c0c4fef8bc446f 27,30
+  s_b7752e52052a4c::t_fb78b28f0c99e7 31
+mobile/src/components/bottom-drawer-constants.ts
+  s_b7752e52052a4c::t_a4ac5ba25e156b 1-2
+  s_b7752e52052a4c::t_bdc86f8d062d6f 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "2d3d11406d620cf93b6bfcc0ccd00557d38b0106",
+  "prompts": {},
+  "sessions": {
+    "s_b7752e52052a4c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "33815f0b-c427-46f4-a0cb-035e71311868",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Léo Tuil <65966422+tleo19@users.noreply.github.com>"
+    }
+  }
+}
