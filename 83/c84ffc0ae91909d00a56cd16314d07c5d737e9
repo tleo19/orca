@@ -1,0 +1,27 @@
+mobile/app/index.tsx
+  s_b7752e52052a4c::t_5eca1859f0bd15 1023-1034
+  s_b7752e52052a4c::t_5f21ed7c71300b 42
+  s_b7752e52052a4c::t_5feb5010b8fd9c 2
+  s_b7752e52052a4c::t_6ca8160d6d7d41 690,692,694,696,700,702,704,706
+mobile/src/components/BottomDrawer.tsx
+  s_b7752e52052a4c::t_13c10822f027dc 37
+mobile/src/components/HostActionsSheet.tsx
+  s_b7752e52052a4c::t_f4c0f634d292f3 1-167,173-282
+  s_b7752e52052a4c::t_5d208dfbafa6af 168-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "83c84ffc0ae91909d00a56cd16314d07c5d737e9",
+  "prompts": {},
+  "sessions": {
+    "s_b7752e52052a4c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "33815f0b-c427-46f4-a0cb-035e71311868",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Léo Tuil <65966422+tleo19@users.noreply.github.com>"
+    }
+  }
+}
