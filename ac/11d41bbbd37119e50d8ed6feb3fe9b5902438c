@@ -1,0 +1,25 @@
+mobile/src/components/HostActionsSheet.tsx
+  s_b7752e52052a4c::t_3e7d34daf6ae4b 282-284
+  s_b7752e52052a4c::t_5f568ff6392fcb 101,104-113,117-120,122,132
+  s_b7752e52052a4c::t_2c49c72e8deb36 41-43,58
+  s_b7752e52052a4c::t_e249103dcd87c0 198-199,201
+mobile/app/index.tsx
+  s_b7752e52052a4c::t_7471925385b51a 692
+  s_b7752e52052a4c::t_f8d9bd607d0e02 690-691,693-700,707-708,717-718
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "ac11d41bbbd37119e50d8ed6feb3fe9b5902438c",
+  "prompts": {},
+  "sessions": {
+    "s_b7752e52052a4c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "33815f0b-c427-46f4-a0cb-035e71311868",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Léo Tuil <65966422+tleo19@users.noreply.github.com>"
+    }
+  }
+}
